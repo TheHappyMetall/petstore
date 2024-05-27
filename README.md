@@ -1,4 +1,4 @@
-# TBC-Diplom
+# petstore
 
 Ссылка: https://thehappymetall.github.io/TBC-Diplom/
 
